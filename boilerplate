@@ -1,0 +1,10 @@
+alt="Hero Image" width="100%" height="900px"
+
+<i class='bx bx-mobile-alt' ></i>
+<i class='bx bxs-briefcase-alt'></i>
+<i class='bx bxs-crop'></i>
+<i class='bx bx-comment-check'></i>
+<i class='bx bx-headphone'></i>
+
+hoverbackground 
+transition; 0.6s
