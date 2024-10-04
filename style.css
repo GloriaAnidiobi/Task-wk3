@@ -216,22 +216,5 @@ header{
 @media(max-width:768px){
     .navbar {
         display: block;
-
     }
-    .navbar{
-        position:fixed;
-        left:-100%;
-        top:70px;
-        gap:0;
-        flex-direction: column;
-        background-color: #262ddd;
-        width:100%;
-        text-align: center;
-        transition: 0.35;
-
-    }
-    .navbar{
-
-    }
-
 }
